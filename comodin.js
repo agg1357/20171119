@@ -1,7 +1,7 @@
 
 
-comodinx=10
-comodiny=20
+comodinx=8
+comodiny=16
 comodinz=30
 mensajex=""
 mensajey=""
