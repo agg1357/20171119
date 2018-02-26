@@ -1,6 +1,6 @@
 
 
-comodinx=160
+comodinx=8
 comodiny=8
 comodinz=30
 mensajex=""
