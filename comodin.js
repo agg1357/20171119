@@ -3,9 +3,9 @@
 comodinx=7
 comodiny=14
 comodinz=30
-comodina=10000
+comodina=20000
 comodinb=0
-comodinc=0
+comodinc=1
 comodind=0
 
 mensajex=""
