@@ -2,7 +2,7 @@
 
 comodinx=7
 comodiny=14
-comodinz=2
+comodinz=141
 comodina=120000
 comodinb=0
 comodinc=1
