@@ -14,8 +14,8 @@ show_banner=1
             //Example.  show_interstitialtiempo1=30 (precisión cada 10 seg) por lo que se habilita resto interstitials a los 40 seg. después de 1º interstitial
 show_interstitial1=10 
 show_interstitial2=10
-show_interstitialtiempo1=100
-show_interstitialtiempo2=100
+show_interstitialtiempo1=-11
+show_interstitialtiempo2=-11
 
 
 
