@@ -1,7 +1,7 @@
 
 //PARA LIBROS
 //show_banner=0 NO MOSTRAR BANNER   show_banner=1 MOSTRAR BANNER
-show_banner=1
+show_banner=0
 
 //PARA LIBROS
 //show_interstitial1  CONTADOR A PARTIR DE CUANDO SE MUESTRA PRIMER INTERSTITIAL. 
