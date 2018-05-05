@@ -5,9 +5,9 @@ show_banner=1
 
 //PARA LIBROS
 //show_interstitial1  CONTADOR A PARTIR DE CUANDO SE MUESTRA PRIMER INTERSTITIAL. 
-            //Example. show_interstitial1=10.  El 1º Interstitial saldrá a la 10 pulsación (si show_interstitialtiempo1 no lo impide) 
+            //Example. show_interstitial1=10.  El 1º Interstitial saldrá a la 11 pulsación (si show_interstitialtiempo1 no lo impide) 
 //show_interstitial2  CONTADOR CADA CUANDO SE MUESTRAN SEGUNDO Y RESTO INTERSTITIALS
-            //Example. show_interstitial2=12.  El resto Interstitials saldrá a la 12 pulsación después de 1º Interstitial (si show_interstitialtiempo2 no lo impide) 
+            //Example. show_interstitial2=12.  El resto Interstitials saldrá a la 13 pulsación después de 1º Interstitial (si show_interstitialtiempo2 no lo impide) 
 //show_interstitialtiempo1 TIEMPO MÍNIMO PARA QUE PUEDA APARECER PRIMER INTERSTITIAL (seg.)
             //Example.  show_interstitialtiempo1=20 (precisión cada 10 seg) por lo que se habilita 1º interstitial a los 30 seg.
 //show_interstitialtiempo2 TIEMPO MÍNIMO PARA QUE PUEDA APARECER SEGUNDO Y RESTO INTERSTITIALS (seg)
