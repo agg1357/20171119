@@ -15,7 +15,7 @@ show_banner=1
 show_interstitial1=10 
 show_interstitial2=10
 show_interstitialtiempo1=100
-show_interstitialtiempo2=200
+show_interstitialtiempo2=100
 
 
 
