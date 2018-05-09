@@ -21,10 +21,10 @@ show_interstitialtiempo2=20
 
 //para VERB TRAINER
 show_banner_verb=1
-show_interstitial1_verb=1 
-show_interstitial2_verb=1
-show_interstitialtiempo1_verb=30
-show_interstitialtiempo2_verb=30
+show_interstitial1_verb=0 
+show_interstitial2_verb=0
+show_interstitialtiempo1_verb=-11
+show_interstitialtiempo2_verb=-11
 
 
 
