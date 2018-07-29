@@ -27,6 +27,14 @@ show_interstitialtiempo1_verb=-11
 show_interstitialtiempo2_verb=-11
 
 
+//para MAGIC 2 LIBRE
+//show_spell2=0 ACTÚAN LOS VALORES INFERIORES. show_spell2=1 ACTÚAN LOS VALORES INFERIORES Y ADEMÁS INTERSTITIAL AL MOSTRAR RECETA HECHIZO
+show_spell2=0
+show_banner_spell2=1
+show_interstitial1_spell2=3 
+show_interstitial2_spell2=10
+show_interstitialtiempo1_spell2=20
+show_interstitialtiempo2_spell2=20
 
 
 
