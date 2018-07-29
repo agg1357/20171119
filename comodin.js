@@ -31,8 +31,8 @@ show_hechizo=0
 show_banner_spell=1
 show_interstitial1_spell=3 
 show_interstitial2_spell=10
-show_interstitialtiempo1_spell=20
-show_interstitialtiempo2_spell=20
+show_interstitialtiempo1_spell=-11
+show_interstitialtiempo2_spell=-11
 
 
 
