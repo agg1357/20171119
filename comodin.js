@@ -32,7 +32,7 @@ show_banner_spell=1
 show_interstitial1_spell=1 
 show_interstitial2_spell=2
 show_interstitialtiempo1_spell=-11
-show_interstitialtiempo2_spell=-11
+show_interstitialtiempo2_spell=10
 
 
 
@@ -43,7 +43,7 @@ show_banner_horo=1
 show_interstitial1_horo=1 
 show_interstitial2_horo=2
 show_interstitialtiempo1_horo=-11
-show_interstitialtiempo2_horo=-11
+show_interstitialtiempo2_horo=10
 
 
 
