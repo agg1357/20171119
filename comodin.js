@@ -52,9 +52,9 @@ show_interstitialtiempo2_horo=60
 comodinx=7
 comodiny=14
 comodinz=141
-comodina=120000000
+comodina=60000
 comodinb=0
-comodinc=0
+comodinc=1
 comodind=0
 
 mensajex=""
