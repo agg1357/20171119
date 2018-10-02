@@ -40,10 +40,10 @@ show_interstitialtiempo2_spell=60
 show_horo=1
 //show_horo=0 ACTÚAN LOS VALORES INFERIORES. show_horo=1 ACTÚAN LOS VALORES INFERIORES Y ADEMÁS INTERSTITIAL AL MOSTRAR RECETA HOROSCOPO
 show_banner_horo=1
-show_interstitial1_horo=1 
+show_interstitial1_horo=0 
 show_interstitial2_horo=2
-show_interstitialtiempo1_horo=60
-show_interstitialtiempo2_horo=60
+show_interstitialtiempo1_horo=-11
+show_interstitialtiempo2_horo=10
 
 
 
