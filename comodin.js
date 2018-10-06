@@ -28,11 +28,13 @@ show_interstitialtiempo2_verb=-11
 //para POWERFUL MAGIC SPELLS 2 LIBRE
 show_hechizo=1
 //show_hechizo=0 ACTÚAN LOS VALORES INFERIORES. show_hechizo=1 ACTÚAN LOS VALORES INFERIORES Y ADEMÁS INTERSTITIAL AL MOSTRAR RECETA HECHIZO
+//promo_powerful=0 no hay autopromocion de mis apps. promo_powerful=1 habilito autopromocion
 show_banner_spell=1
 show_interstitial1_spell=1 
 show_interstitial2_spell=2
 show_interstitialtiempo1_spell=60
 show_interstitialtiempo2_spell=60
+promo_powerful=1
 
 
 
