@@ -37,6 +37,19 @@ show_interstitialtiempo2_spell=60
 promo_powerful=1
 
 
+//para RUNAS LIBRE
+show_runa=1
+//show_runa=0 ACTÚAN LOS VALORES INFERIORES. show_runa=1 ACTÚAN LOS VALORES INFERIORES Y ADEMÁS INTERSTITIAL AL MOSTRAR RECETA HECHIZO
+//promo_powerful=0 no hay autopromocion de mis apps. promo_powerful=1 habilito autopromocion
+show_banner_runa=1
+show_interstitial1_runa=1 
+show_interstitial2_spell=2
+show_interstitialtiempo1_runa=60
+show_interstitialtiempo2_runa=60
+promo_powerful=1
+
+
+
 
 //para HOROSCOPO MÁGICO LIBRE
 show_horo=1
