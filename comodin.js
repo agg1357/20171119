@@ -52,8 +52,8 @@ promo_powerful=1
 //para ULTIMATE LIBRE
 show_ultimate=1
 //show_ultimate=0 ACTÚAN LOS VALORES INFERIORES. show_ultimate=1 ACTÚAN LOS VALORES INFERIORES Y ADEMÁS INTERSTITIAL AL MOSTRAR RECETA HECHIZO
-//promo_powerful=0 no hay autopromocion de mis apps. promo_powerful=1 habilito autopromocion
-show_banner_ultimate=1
+//promo_powerfulU=0 no hay autopromocion de mis apps. promo_powerfulU=1 habilito autopromocion
+show_banner_ultimate=0
 show_interstitial1_ultimate=1 
 show_interstitial2_ultimate=2
 show_interstitialtiempo1_ultimate=60
