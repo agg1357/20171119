@@ -61,6 +61,18 @@ show_interstitialtiempo2_ultimate=260
 promo_powerfulU=1
 
 
+//para FRASES
+show_frases=1
+//show_frases=0 ACTÚAN LOS VALORES INFERIORES. show_frases=1 ACTÚAN LOS VALORES INFERIORES Y ADEMÁS INTERSTITIAL AL MOSTRAR capitulos
+//promo_powerfulF=0 no hay autopromocion de mis apps. promo_powerfulF=1 habilito autopromocion
+show_banner_frases=1
+show_interstitial1_frases=1 
+show_interstitial2_frases=2
+show_interstitialtiempo1_frases=260
+show_interstitialtiempo2_frases=260
+promo_powerfulF=1
+
+
 
 //para HOROSCOPO MÁGICO LIBRE
 show_horo=1
