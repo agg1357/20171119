@@ -46,7 +46,7 @@ show_interstitial1_runa=1
 show_interstitial2_runa=2
 show_interstitialtiempo1_runa=60
 show_interstitialtiempo2_runa=60
-promo_powerful=1
+promo_powerful=0
 
 
 //para ULTIMATE LIBRE
