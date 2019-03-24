@@ -56,9 +56,23 @@ show_ultimate=1
 show_banner_ultimate=1
 show_interstitial1_ultimate=1 
 show_interstitial2_ultimate=2
-show_interstitialtiempo1_ultimate=260
-show_interstitialtiempo2_ultimate=260
+show_interstitialtiempo1_ultimate=26000
+show_interstitialtiempo2_ultimate=26000
 promo_powerfulU=1
+
+
+//para DEMONS
+show_demons=1
+//show_frases=0 ACTÚAN LOS VALORES INFERIORES. show_frases=1 ACTÚAN LOS VALORES INFERIORES Y ADEMÁS INTERSTITIAL AL MOSTRAR capitulos
+//promo_powerfulF=0 no hay autopromocion de mis apps. promo_powerfulF=1 habilito autopromocion
+show_banner_demons=1
+show_interstitial1_demons=1 
+show_interstitial2_demons=2
+show_interstitialtiempo1_demons=26000
+show_interstitialtiempo2_demons=26000
+
+
+
 
 
 //para FRASES
@@ -68,8 +82,8 @@ show_frases=1
 show_banner_frases=1
 show_interstitial1_frases=1 
 show_interstitial2_frases=2
-show_interstitialtiempo1_frases=260
-show_interstitialtiempo2_frases=260
+show_interstitialtiempo1_frases=26000
+show_interstitialtiempo2_frases=26000
 promo_powerfulF=1
 
 
