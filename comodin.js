@@ -56,8 +56,8 @@ show_ultimate=1
 show_banner_ultimate=1
 show_interstitial1_ultimate=1 
 show_interstitial2_ultimate=2
-show_interstitialtiempo1_ultimate=26000
-show_interstitialtiempo2_ultimate=26000
+show_interstitialtiempo1_ultimate=60
+show_interstitialtiempo2_ultimate=60
 promo_powerfulU=1
 
 
@@ -68,8 +68,8 @@ show_demons=1
 show_banner_demons=1
 show_interstitial1_demons=1 
 show_interstitial2_demons=2
-show_interstitialtiempo1_demons=26000
-show_interstitialtiempo2_demons=26000
+show_interstitialtiempo1_demons=60
+show_interstitialtiempo2_demons=60
 
 
 
@@ -82,8 +82,8 @@ show_frases=1
 show_banner_frases=1
 show_interstitial1_frases=1 
 show_interstitial2_frases=2
-show_interstitialtiempo1_frases=26000
-show_interstitialtiempo2_frases=26000
+show_interstitialtiempo1_frases=60
+show_interstitialtiempo2_frases=60
 promo_powerfulF=1
 
 
@@ -97,7 +97,16 @@ show_interstitial2_horo=2
 show_interstitialtiempo1_horo=-11
 show_interstitialtiempo2_horo=10
 
-
+//para ARCHANGEL
+show_archangel=1
+//show_archangel=0 ACTÚAN LOS VALORES INFERIORES. show_archangel=1 ACTÚAN LOS VALORES INFERIORES Y ADEMÁS INTERSTITIAL AL MOSTRAR capitulos
+//promo_powerfulA=0 no hay autopromocion de mis apps. promo_powerfulA=1 habilito autopromocion
+show_banner_archangel=1
+show_interstitial1_archangel=1 
+show_interstitial2_archangel=2
+show_interstitialtiempo1_archangel=60
+show_interstitialtiempo2_archangel=60
+promo_powerfulF=0
 
 
 
