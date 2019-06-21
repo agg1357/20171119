@@ -108,7 +108,10 @@ show_interstitialtiempo1_archangel=60
 show_interstitialtiempo2_archangel=60
 promo_powerfulF=0
 
-
+//para LENORMAND TAROT
+show_banner_lenormand=1;
+show_inters_lenormand=1;
+//1 HABILITADO    0 DESHABILITADO
 
 comodinx=7
 comodiny=14
