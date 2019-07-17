@@ -53,7 +53,7 @@ promo_powerful=0
 show_ultimate=1
 //show_ultimate=0 ACTÚAN LOS VALORES INFERIORES. show_ultimate=1 ACTÚAN LOS VALORES INFERIORES Y ADEMÁS INTERSTITIAL AL MOSTRAR RECETA HECHIZO
 //promo_powerfulU=0 no hay autopromocion de mis apps. promo_powerfulU=1 habilito autopromocion
-show_banner_ultimate=1
+show_banner_ultimate=0
 show_interstitial1_ultimate=1 
 show_interstitial2_ultimate=2
 show_interstitialtiempo1_ultimate=60
@@ -65,7 +65,7 @@ promo_powerfulU=1
 show_demons=1
 //show_frases=0 ACTÚAN LOS VALORES INFERIORES. show_frases=1 ACTÚAN LOS VALORES INFERIORES Y ADEMÁS INTERSTITIAL AL MOSTRAR capitulos
 //promo_powerfulF=0 no hay autopromocion de mis apps. promo_powerfulF=1 habilito autopromocion
-show_banner_demons=1
+show_banner_demons=0
 show_interstitial1_demons=1 
 show_interstitial2_demons=2
 show_interstitialtiempo1_demons=60
@@ -101,7 +101,7 @@ show_interstitialtiempo2_horo=10
 show_archangel=1
 //show_archangel=0 ACTÚAN LOS VALORES INFERIORES. show_archangel=1 ACTÚAN LOS VALORES INFERIORES Y ADEMÁS INTERSTITIAL AL MOSTRAR capitulos
 //promo_powerfulA=0 no hay autopromocion de mis apps. promo_powerfulA=1 habilito autopromocion
-show_banner_archangel=1
+show_banner_archangel=0
 show_interstitial1_archangel=1 
 show_interstitial2_archangel=2
 show_interstitialtiempo1_archangel=60
@@ -109,7 +109,7 @@ show_interstitialtiempo2_archangel=60
 promo_powerfulF=0
 
 //para LENORMAND TAROT
-show_banner_lenormand=1;
+show_banner_lenormand=0;
 show_inters_lenormand=1;
 //1 HABILITADO    0 DESHABILITADO
 
