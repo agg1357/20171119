@@ -35,7 +35,7 @@ show_interstitialtiempo2Pride=10
 
 //PARA Sense Oculto
 show_bannerSense=1
-show_interstitial1Sense=2 
+show_interstitial1Sense=200 
 show_interstitial2Sense=8
 show_interstitialtiempo1Sense=10
 show_interstitialtiempo2Sense=10
@@ -44,7 +44,7 @@ show_interstitialtiempo2Sense=10
 
 //PARA Art of War Oculto
 show_bannerWar=1
-show_interstitial1War=2 
+show_interstitial1War=200 
 show_interstitial2War=8
 show_interstitialtiempo1War=10
 show_interstitialtiempo2War=10
@@ -52,7 +52,7 @@ show_interstitialtiempo2War=10
 
 //PARA Montecristo Oculto
 show_bannerMontecristo=1
-show_interstitial1Montecristo=2 
+show_interstitial1Montecristo=200 
 show_interstitial2Montecristo=8
 show_interstitialtiempo1Montecristo=10
 show_interstitialtiempo2Montecristo=10
@@ -60,7 +60,7 @@ show_interstitialtiempo2Montecristo=10
 
 //PARA Wuthering Oculto
 show_bannerWuthering=1
-show_interstitial1Wuthering=2 
+show_interstitial1Wuthering=200 
 show_interstitial2Wuthering=8
 show_interstitialtiempo1Wuthering=10
 show_interstitialtiempo2Wuthering=10
@@ -68,7 +68,7 @@ show_interstitialtiempo2Wuthering=10
 
 //PARA Jane Eyre Oculto
 show_bannerEyre=1
-show_interstitial1Eyre=2 
+show_interstitial1Eyre=200 
 show_interstitial2Eyre=8
 show_interstitialtiempo1Eyre=10
 show_interstitialtiempo2Eyre=10
