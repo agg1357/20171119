@@ -51,11 +51,11 @@ show_interstitialtiempo2War=10
 
 
 //PARA Montecristo Oculto
-show_bannerMontecristo=1
-show_interstitial1Montecristo=200 
-show_interstitial2Montecristo=8
-show_interstitialtiempo1Montecristo=10
-show_interstitialtiempo2Montecristo=10
+show_bannerMonte=1
+show_interstitial1Monte=200 
+show_interstitial2Monte=8
+show_interstitialtiempo1Monte=10
+show_interstitialtiempo2Monte=10
 
 
 //PARA Wuthering Oculto
