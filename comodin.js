@@ -77,7 +77,7 @@ show_interstitialtiempo2Eyre=10
 
 
 //para VERB TRAINER
-show_banner_verb=1
+show_banner_verb=0
 show_interstitial1_verb=0 
 show_interstitial2_verb=0
 show_interstitialtiempo1_verb=-11
@@ -90,9 +90,9 @@ show_hechizo=1
 //promo_powerfulH=0 no hay autopromocion de mis apps. promo_powerfulH=1 habilito autopromocion
 show_banner_spell=1
 show_interstitial1_spell=1 
-show_interstitial2_spell=2
-show_interstitialtiempo1_spell=60
-show_interstitialtiempo2_spell=60
+show_interstitial2_spell=1
+show_interstitialtiempo1_spell=30
+show_interstitialtiempo2_spell=30
 promo_powerfulH=1
 
 
@@ -102,9 +102,9 @@ show_runa=1
 //promo_powerful=0 no hay autopromocion de mis apps. promo_powerful=1 habilito autopromocion
 show_banner_runa=1
 show_interstitial1_runa=1 
-show_interstitial2_runa=2
-show_interstitialtiempo1_runa=60
-show_interstitialtiempo2_runa=60
+show_interstitial2_runa=1
+show_interstitialtiempo1_runa=30
+show_interstitialtiempo2_runa=30
 promo_powerful=0
 
 
@@ -114,9 +114,9 @@ show_ultimate=1
 //promo_powerfulU=0 no hay autopromocion de mis apps. promo_powerfulU=1 habilito autopromocion
 show_banner_ultimate=1
 show_interstitial1_ultimate=1 
-show_interstitial2_ultimate=2
-show_interstitialtiempo1_ultimate=60
-show_interstitialtiempo2_ultimate=60
+show_interstitial2_ultimate=1
+show_interstitialtiempo1_ultimate=30
+show_interstitialtiempo2_ultimate=30
 promo_powerfulU=1
 
 
@@ -126,9 +126,9 @@ show_demons=1
 //promo_powerfulF=0 no hay autopromocion de mis apps. promo_powerfulF=1 habilito autopromocion
 show_banner_demons=1
 show_interstitial1_demons=1 
-show_interstitial2_demons=2
-show_interstitialtiempo1_demons=60
-show_interstitialtiempo2_demons=60
+show_interstitial2_demons=1
+show_interstitialtiempo1_demons=30
+show_interstitialtiempo2_demons=30
 
 
 
@@ -141,8 +141,8 @@ show_frases=1
 show_banner_frases=0
 show_interstitial1_frases=1 
 show_interstitial2_frases=2
-show_interstitialtiempo1_frases=60
-show_interstitialtiempo2_frases=60
+show_interstitialtiempo1_frases=30
+show_interstitialtiempo2_frases=30
 promo_powerfulF=1
 
 
@@ -152,7 +152,7 @@ show_horo=1
 //show_horo=0 ACTÚAN LOS VALORES INFERIORES. show_horo=1 ACTÚAN LOS VALORES INFERIORES Y ADEMÁS INTERSTITIAL AL MOSTRAR RECETA HOROSCOPO
 show_banner_horo=1
 show_interstitial1_horo=0 
-show_interstitial2_horo=2
+show_interstitial2_horo=1
 show_interstitialtiempo1_horo=-11
 show_interstitialtiempo2_horo=10
 
@@ -162,9 +162,9 @@ show_archangel=1
 //promo_powerfulA=0 no hay autopromocion de mis apps. promo_powerfulA=1 habilito autopromocion
 show_banner_archangel=1
 show_interstitial1_archangel=1 
-show_interstitial2_archangel=2
-show_interstitialtiempo1_archangel=60
-show_interstitialtiempo2_archangel=60
+show_interstitial2_archangel=1
+show_interstitialtiempo1_archangel=30
+show_interstitialtiempo2_archangel=30
 promo_powerfulF=0
 
 //para LENORMAND TAROT
