@@ -138,7 +138,7 @@ show_interstitialtiempo2_demons=30
 show_frases=1
 //show_frases=0 ACTÚAN LOS VALORES INFERIORES. show_frases=1 ACTÚAN LOS VALORES INFERIORES Y ADEMÁS INTERSTITIAL AL MOSTRAR capitulos
 //promo_powerfulF=0 no hay autopromocion de mis apps. promo_powerfulF=1 habilito autopromocion
-show_banner_frases=0
+show_banner_frases=1
 show_interstitial1_frases=1 
 show_interstitial2_frases=2
 show_interstitialtiempo1_frases=30
