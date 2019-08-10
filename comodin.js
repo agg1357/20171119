@@ -96,6 +96,19 @@ show_interstitialtiempo2_spell=30
 promo_powerfulH=1
 
 
+//para FREE MAGIC SPELLS BOOK
+show_FreeMagic=1
+//show_hechizo=0 ACTÚAN LOS VALORES INFERIORES. show_hechizo=1 ACTÚAN LOS VALORES INFERIORES Y ADEMÁS INTERSTITIAL AL MOSTRAR RECETA HECHIZO
+//promo_powerfulH=0 no hay autopromocion de mis apps. promo_powerfulH=1 habilito autopromocion
+show_banner_FreeMagic=1
+show_interstitial1_FreeMagic=1000 
+show_interstitial2_FreeMagic=1000
+show_interstitialtiempo1_spell=2
+show_interstitialtiempo2_spell=2
+
+
+
+
 //para RUNAS LIBRE
 show_runa=1
 //show_runa=0 ACTÚAN LOS VALORES INFERIORES. show_runa=1 ACTÚAN LOS VALORES INFERIORES Y ADEMÁS INTERSTITIAL AL MOSTRAR RECETA HECHIZO
