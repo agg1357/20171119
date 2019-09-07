@@ -180,6 +180,18 @@ show_interstitialtiempo1_archangel=30
 show_interstitialtiempo2_archangel=30
 promo_powerfulF=0
 
+
+//para CHINESE ZODIAC
+show_chino=1
+//show_archangel=0 ACTÚAN LOS VALORES INFERIORES. show_archangel=1 ACTÚAN LOS VALORES INFERIORES Y ADEMÁS INTERSTITIAL AL MOSTRAR capitulos
+//promo_powerfulA=0 no hay autopromocion de mis apps. promo_powerfulA=1 habilito autopromocion
+show_banner_chino=1
+show_interstitial1_chino=1 
+show_interstitial2_chino=1
+show_interstitialtiempo1_chino=30
+show_interstitialtiempo2_chino=30
+
+
 //para LENORMAND TAROT
 show_banner_lenormand=1;
 show_inters_lenormand=1;
