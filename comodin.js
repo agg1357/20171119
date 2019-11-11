@@ -28,14 +28,14 @@ show_interstitialtiempo2=10
 //show_interstitialtiempo2 TIEMPO MÍNIMO PARA QUE PUEDA APARECER SEGUNDO Y RESTO INTERSTITIALS (seg)
             //Example.  show_interstitialtiempo1=30 (precisión cada 10 seg) por lo que se habilita resto interstitials a los 40 seg. después de 1º interstitial
 show_bannerPride=1
-show_interstitial1Pride=5 
+show_interstitial1Pride=3 
 show_interstitial2Pride=8
 show_interstitialtiempo1Pride=10
 show_interstitialtiempo2Pride=10
 
 //PARA Sense Oculto
 show_bannerSense=1
-show_interstitial1Sense=5 
+show_interstitial1Sense=3 
 show_interstitial2Sense=8
 show_interstitialtiempo1Sense=10
 show_interstitialtiempo2Sense=10
@@ -44,7 +44,7 @@ show_interstitialtiempo2Sense=10
 
 //PARA Art of War Oculto
 show_bannerWar=1
-show_interstitial1War=5 
+show_interstitial1War=3 
 show_interstitial2War=8
 show_interstitialtiempo1War=10
 show_interstitialtiempo2War=10
@@ -52,7 +52,7 @@ show_interstitialtiempo2War=10
 
 //PARA Montecristo Oculto
 show_bannerMonte=1
-show_interstitial1Monte=5 
+show_interstitial1Monte=3 
 show_interstitial2Monte=8
 show_interstitialtiempo1Monte=10
 show_interstitialtiempo2Monte=10
@@ -60,15 +60,15 @@ show_interstitialtiempo2Monte=10
 
 //PARA Wuthering Oculto
 show_bannerWuthering=1
-show_interstitial1Wuthering=5 
-show_interstitial2Wuthering=8
+show_interstitial1Wuthering=3 
+show_interstitial2Wuthering=3
 show_interstitialtiempo1Wuthering=10
 show_interstitialtiempo2Wuthering=10
 
 
 //PARA Jane Eyre Oculto
 show_bannerEyre=1
-show_interstitial1Eyre=5 
+show_interstitial1Eyre=3 
 show_interstitial2Eyre=8
 show_interstitialtiempo1Eyre=10
 show_interstitialtiempo2Eyre=10
@@ -190,6 +190,16 @@ show_interstitial1_chino=1
 show_interstitial2_chino=1
 show_interstitialtiempo1_chino=30
 show_interstitialtiempo2_chino=30
+
+
+//para Prayers of thanks to God
+show_PrayerThanks=1
+show_banner_PrayerThanks=1
+show_interstitial1_PrayerThanks=1000 
+show_interstitial2_PrayerThanks=1000
+show_interstitialtiempo1_PrayerThanks=2
+show_interstitialtiempo2_PrayerThanks=2
+
 
 
 //para LENORMAND TAROT
