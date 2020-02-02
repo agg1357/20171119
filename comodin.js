@@ -201,6 +201,15 @@ show_interstitialtiempo1_PrayerThanks=2
 show_interstitialtiempo2_PrayerThanks=2
 
 
+//para Greek Gods
+show_greekGods=1
+show_banner_greekGods=1
+show_interstitial1_greekGods=1000 
+show_interstitial2_greekGods=1000
+show_interstitialtiempo1_greekGods=2
+show_interstitialtiempo2_greekGods=2
+
+
 
 //para LENORMAND TAROT
 show_banner_lenormand=1;
