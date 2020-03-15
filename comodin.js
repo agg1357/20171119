@@ -144,6 +144,13 @@ show_interstitialtiempo1_demons=30
 show_interstitialtiempo2_demons=30
 
 
+//para 3M3 SPELLS
+show_3M3=1
+show_banner_3M3=1
+show_interstitial1_3M3=1 
+show_interstitial2_3M3=1
+show_interstitialtiempo1_3M3=30
+show_interstitialtiempo2_3M3=30
 
 
 
