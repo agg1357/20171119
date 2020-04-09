@@ -91,8 +91,8 @@ show_hechizo=1
 show_banner_spell=1
 show_interstitial1_spell=1 
 show_interstitial2_spell=1
-show_interstitialtiempo1_spell=30
-show_interstitialtiempo2_spell=30
+show_interstitialtiempo1_spell=100
+show_interstitialtiempo2_spell=100
 promo_powerfulH=1
 
 
@@ -103,8 +103,8 @@ show_FreeMagic=1
 show_banner_FreeMagic=1
 show_interstitial1_FreeMagic=1 
 show_interstitial2_FreeMagic=1
-show_interstitialtiempo1_spell=30
-show_interstitialtiempo2_spell=30
+show_interstitialtiempo1_spell=100
+show_interstitialtiempo2_spell=100
 
 
 
@@ -116,8 +116,8 @@ show_runa=1
 show_banner_runa=1
 show_interstitial1_runa=1 
 show_interstitial2_runa=1
-show_interstitialtiempo1_runa=30
-show_interstitialtiempo2_runa=30
+show_interstitialtiempo1_runa=300
+show_interstitialtiempo2_runa=300
 promo_powerful=0
 
 
@@ -128,8 +128,8 @@ show_ultimate=1
 show_banner_ultimate=1
 show_interstitial1_ultimate=1 
 show_interstitial2_ultimate=1
-show_interstitialtiempo1_ultimate=30
-show_interstitialtiempo2_ultimate=30
+show_interstitialtiempo1_ultimate=100
+show_interstitialtiempo2_ultimate=100
 promo_powerfulU=1
 
 
@@ -140,8 +140,8 @@ show_demons=1
 show_banner_demons=1
 show_interstitial1_demons=1 
 show_interstitial2_demons=1
-show_interstitialtiempo1_demons=30
-show_interstitialtiempo2_demons=30
+show_interstitialtiempo1_demons=100
+show_interstitialtiempo2_demons=200
 
 
 //para 3M3 SPELLS
@@ -149,8 +149,18 @@ show_3M3=1
 show_banner_3M3=1
 show_interstitial1_3M3=1 
 show_interstitial2_3M3=1
-show_interstitialtiempo1_3M3=30
-show_interstitialtiempo2_3M3=30
+show_interstitialtiempo1_3M3=30000
+show_interstitialtiempo2_3M3=300
+
+
+
+//para BLACK MAGIC
+show_Black_Magic=1
+show_banner_Black_Magic=1
+show_interstitial1_Black_Magic=1 
+show_interstitial2_Black_Magic=1
+show_interstitialtiempo1_Black_Magic=30000
+show_interstitialtiempo2_Black_Magic=30
 
 
 
@@ -161,8 +171,8 @@ show_frases=1
 show_banner_frases=1
 show_interstitial1_frases=1 
 show_interstitial2_frases=1
-show_interstitialtiempo1_frases=30
-show_interstitialtiempo2_frases=30
+show_interstitialtiempo1_frases=10
+show_interstitialtiempo2_frases=10
 promo_powerfulF=1
 
 
@@ -183,8 +193,8 @@ show_archangel=1
 show_banner_archangel=1
 show_interstitial1_archangel=1 
 show_interstitial2_archangel=1
-show_interstitialtiempo1_archangel=30
-show_interstitialtiempo2_archangel=30
+show_interstitialtiempo1_archangel=20
+show_interstitialtiempo2_archangel=20
 promo_powerfulF=0
 
 
@@ -195,8 +205,8 @@ show_chino=1
 show_banner_chino=1
 show_interstitial1_chino=1 
 show_interstitial2_chino=1
-show_interstitialtiempo1_chino=30
-show_interstitialtiempo2_chino=30
+show_interstitialtiempo1_chino=20
+show_interstitialtiempo2_chino=20
 
 
 //para Prayers of thanks to God
